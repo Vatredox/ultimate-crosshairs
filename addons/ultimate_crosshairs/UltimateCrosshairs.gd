@@ -2,7 +2,7 @@
 @icon("res://addons/ultimate_crosshairs/ultimate_crosshairs.png")
 class_name UltimateCrosshairs extends Control
 
-##A control that draws customizable crosshairs to the screen.
+##A control that draws a customizable crosshair to the screen.
 
 enum CrosshairStyle {
 	##Displays only a dot.
