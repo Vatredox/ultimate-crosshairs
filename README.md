@@ -8,8 +8,10 @@ This addon provides a very simple and customizable way to implement crosshairs i
 
 - Download the addon and place it in your Godot project
 - Add `UltimateCrosshairs.gd` to a Control node in your scene
+- Pick one of 3 different styles: `DOT_ONLY`, `STANDARD`, or `SHOTGUN`
 - Adjust `spread_pixels` to change the size of the crosshairs
-  - Alternatively, call `set_spread_degrees(angle, vertical_fov)` to space the crosshairs correctly, given a cone angle.
+  - Alternatively, call `set_spread_degrees(angle, vertical_fov)` to space the crosshairs accordingto a given a cone angle.
+- Adjust other settings such as colors, outline thickness and number of lines.
 
 ![image](https://github.com/user-attachments/assets/29bd5d33-4911-40b2-bc3d-64ac82263222)
 ## Examples
