@@ -1,5 +1,5 @@
 @tool
-@icon("res://addons/ultimate_crosshairs/ultimate_crosshairs.png")
+@icon("res://addons/ultimate_crosshairs/icon.png")
 class_name UltimateCrosshairs extends Control
 
 ##A control that draws a customizable crosshair to the screen.
