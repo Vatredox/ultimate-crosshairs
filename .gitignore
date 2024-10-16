@@ -2,6 +2,7 @@
 .godot/
 *.godot
 *.GODOT
+*.tscn
 
 # Godot-specific ignores
 .import/
